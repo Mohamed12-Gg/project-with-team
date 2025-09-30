@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: Arial, sans-serif;
   scroll-behavior: smooth;
-  background-color:black;
+  background-color:unset;
 }
 body {
   text-align: center;
