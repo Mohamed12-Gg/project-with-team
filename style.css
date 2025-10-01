@@ -153,6 +153,7 @@ nav a:hover {
   overflow: hidden;
 }
 #icon {
+    color: #167de7;  
   cursor: pointer;
   align-self: center;
   margin: 5px;
@@ -219,3 +220,4 @@ footer {
     height: auto;
   }
 }
+
